@@ -1,5 +1,5 @@
 {
   "language": "js",
-  "collection": "@nestjs/schematics",
+  "collection": "@tiffinger-thiel/schematics",
   "sourceRoot": "src"
 }
