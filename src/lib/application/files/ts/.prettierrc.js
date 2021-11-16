@@ -3,7 +3,7 @@ module.exports = {
   "trailingComma": "none",
   "printWidth": 140,
   "tabWidth": 2,
-  "semi": false,
+  "semi": true,
   "arrowParens": "avoid",
 
   // Less problems with windows:
