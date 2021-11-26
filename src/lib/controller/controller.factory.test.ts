@@ -160,7 +160,7 @@ describe('Controller Factory', () => {
         '@Module({\n' +
         '  imports: [],\n' +
         '  controllers: [AppController, FooController],\n' +
-        '  providers: [AppService],\n' +
+        '  providers: [AppService]\n' +
         '})\n' +
         'export class AppModule {}\n',
     );

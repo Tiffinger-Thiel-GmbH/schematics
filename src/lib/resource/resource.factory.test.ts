@@ -1046,7 +1046,7 @@ export class UsersModule {}
 @ObjectType()
 export class User {
   @Field(() => Int, { description: 'Example field (placeholder)' })
-  exampleField: number;
+  exampleField!: number;
 }
 `);
     });
@@ -1058,7 +1058,7 @@ export class User {
 @InputType()
 export class CreateUserInput {
   @Field(() => Int, { description: 'Example field (placeholder)' })
-  exampleField: number;
+  exampleField!: number;
 }
 `,
       );
