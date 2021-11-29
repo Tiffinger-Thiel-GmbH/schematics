@@ -36,9 +36,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nestjs/schematics/issues"
+    "url": "https://github.com/Tiffinger-Thiel-GmbH/schematics/issues"
   },
-  "homepage": "https://github.com/nestjs/schematics#readme",
+  "homepage": "https://github.com/Tiffinger-Thiel-GmbH/schematics#readme",
   "dependencies": {
     "@angular-devkit/core": "13.0.2",
     "@angular-devkit/schematics": "13.0.2",
