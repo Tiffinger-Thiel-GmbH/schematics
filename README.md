@@ -1,4 +1,4 @@
-# Tiffinger & Thiel GmBH Nestjs Schematics
+# Tiffinger & Thiel GmbH Nestjs Schematics
 A fork of [Nestjs Schematics](https://github.com/nestjs/schematics) with our own defaults.
 
 ## Description
